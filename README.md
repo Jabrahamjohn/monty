@@ -17,7 +17,7 @@
    programs that acts as a Monty bytecode interpreter.
 </p>
 <p>
-this is a collaboration between the below listed persons
+this is a collaboration between the below listed persons jjjj
 </p>
 
 # Copyright
