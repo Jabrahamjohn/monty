@@ -17,7 +17,7 @@
    programs that acts as a Monty bytecode interpreter.
 </p>
 <p>
-this is a collaboration between the below listed persons asaad chadi and abraham john
+this is a collaboration between the below listed persons <br>asaad chadi <br>abraham john
 </p>
 
 # Copyright
