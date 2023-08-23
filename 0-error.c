@@ -26,7 +26,7 @@ void open_error(char *file)
 }
 
 /**
- * push_error - handles a push error
+ * push_error - handling a push error
  * @fd: file desciptor
  * @line: buffer
  * @stack:  stack or queue
