@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
- * usage_error - printing an usage error message
+ * usage_error - printing an usage error messages
  * Return: FAILURE
  */
 
@@ -12,7 +12,7 @@ void usage_error(void)
 }
 
 /**
- *open_error - prints an open file error message
+ *open_error - prints an open file error messages
  *@file: file
  * Return: FAILURE
  */
@@ -26,7 +26,7 @@ void open_error(char *file)
 }
 
 /**
- * push_error - handling a push error
+ * push_error - handle a push error
  * @fd: file desciptor
  * @line: buffer
  * @stack:  stack or queue
