@@ -12,7 +12,7 @@ void usage_error(void)
 }
 
 /**
- *open_error - prints an open file error messages
+ *open_error - printing an open file error messages
  *@file: file
  * Return: FAILURE
  */
