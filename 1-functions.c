@@ -14,7 +14,7 @@ void nop(stack_t **stack, unsigned int line_number)
 
 /**
  * swap - swap the top two elements of the stack.
- * @stack: double pointer to the head of the list
+ * @stack: doubles pointer to the head of the list
  * @line_number: line number
  */
 
