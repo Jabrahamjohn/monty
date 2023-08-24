@@ -46,7 +46,7 @@ void push(stack_t **stack, unsigned int line_number)
 
 
 /**
- * pall - prints all the values on the stack
+ * pall - printing all the values on the stack
  * @stack: double pointer to the head of the stack
  * @line_number: the current line number
  */
