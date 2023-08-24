@@ -47,7 +47,7 @@ void push_error(FILE *fd, char *line, stack_t *stack, int line_number)
  * @fd: file descriptors
  * @line: buffers
  * @stack:  stacks or queues
- * @line_n: line number of the command
+ * @line_n: lines numbers of the command
  * @val: instruction
  */
 
