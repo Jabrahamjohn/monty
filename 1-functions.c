@@ -63,7 +63,7 @@ void add(stack_t **stack, unsigned int line_number)
 }
 
 /**
- * pchar - adds the top two elements of the stack.
+ * pchar - add the top two elements of the stack.
  * @stack: double pointer to the head of stack
  * @line_number: the line number
  */
