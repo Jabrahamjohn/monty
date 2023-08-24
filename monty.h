@@ -14,7 +14,7 @@ extern int info;
 
 /**
  * struct cmd_s - cmd
- * @fd: file descriptor
+ * @fd: file descriptors
  * @line: line
  */
 
