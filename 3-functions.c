@@ -1,9 +1,9 @@
 #include "monty.h"
 
 /**
- * _isdigit - checks if it is a digit
+ * _isdigit - checks if it is a digits
  * Return: 0 or 1
- * @c: Value
+ * @c: Values
  **/
 
 int _isdigit(char *c)
