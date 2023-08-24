@@ -30,7 +30,7 @@ void open_error(char *file)
  * @fd: file desciptores
  * @line: bufferes
  * @stack:  stacks or queues
- * @line_number: line number of the command
+ * @line_number: lines numbers of the command
  */
 
 void push_error(FILE *fd, char *line, stack_t *stack, int line_number)
