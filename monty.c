@@ -1,8 +1,8 @@
 #include "monty.h"
 /**
  * main - entry points
- * @argc: argument counter
- * @argv: argument vector
+ * @argc: argument counters
+ * @argv: argument vectors
  * Return: success || failure
  */
 int main(int argc, char **argv)
