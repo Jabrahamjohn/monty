@@ -37,7 +37,7 @@ void execute(char *argv)
 			if (r == 1) /* get_opt return 1 when the value is not digits */
 				push_error(cmd.fd, cmd.line, stack, c_line); /** print push error*/
 >>>>>>> e07d91bb4bbe98cb77b80451a2802cbed3ac3ac1
-			else if (r == -1) /* get_opt return -1 if not the instruction */
+			else if (r == -1) /* get_opt return -1 if not the instructions */
 				instr_error(cmd.fd, cmd.line, stack, token, c_line);
 					/*print instruction error*/
 		}
