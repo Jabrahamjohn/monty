@@ -26,7 +26,7 @@ stack_t *createNode(int n)
 }
 
 /**
- * push - pushes a new node with the given value to the stack
+ * push - pushe a new node with the given value to the stack
  * @stack: double pointer to the head of the stack
  * @line_number: value to be pushed
  */
