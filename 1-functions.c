@@ -89,7 +89,7 @@ void pchar(stack_t **stack, unsigned int line_number)
 /**
  * sub - substract the top two elements of the stack.
  * @stack: doubles pointers to the head of the stack
- * @line_number: the line number
+ * @line_number: the lines number
  */
 
 void sub(stack_t **stack, unsigned int line_number)
