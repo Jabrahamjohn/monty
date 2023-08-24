@@ -15,7 +15,7 @@ extern int info;
 /**
  * struct cmd_s - cmd
  * @fd: file descriptors
- * @line: line
+ * @line: lines
  */
 
 typedef struct cmd_s
