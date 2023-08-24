@@ -48,7 +48,7 @@ void push_error(FILE *fd, char *line, stack_t *stack, int line_number)
  * @line: buffers
  * @stack:  stacks or queues
  * @line_n: lines numbers of the command
- * @val: instruction
+ * @val: instructions
  */
 
 void instr_error(FILE *fd, char *line, stack_t *stack, char *val, int line_n)
