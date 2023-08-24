@@ -30,7 +30,7 @@ void execute(char *argv)
 				continue;
 			val = strtok(NULL, " \n\t\r");
 			r = get_opc(&stack, token, val, c_line);
-			if (r == 1) /* get_opt return 1 when the value is not digit */
+			if (r == 1) /* get_opt return 1 when the value is not digits */
 				push_error(cmd.fd, cmd.line, stack, c_line); /** print push error*/
 			else if (r == -1) /* get_opt return -1 if not the instruction */
 				instr_error(cmd.fd, cmd.line, stack, token, c_line);
