@@ -44,11 +44,11 @@ typedef struct stack_s
 } stack_t;
 
 /**
- * struct instruction_s - opcode and its function
+ * struct instruction_s - opcode and its functions
  * @opcode: the opcode
  * @f: function to handle the opcode
  *
- * Description: opcode and its function
+ * Description: opcode and its functions
  * for stack, queues, LIFO, FIFO
  */
 typedef struct instruction_s
