@@ -4,7 +4,7 @@
  * get_opc - gets the opcodes function
  * @stack: pointers to the stack or queue
  * @arg: the commands
- * @val: the value
+ * @val: the values
  * @line_number: the line number
  * Return: 0 on success || 1 if not a digit || -1 on error
  */
