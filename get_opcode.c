@@ -1,7 +1,7 @@
 #include "monty.h"
 
 /**
- * get_opc - gets the opcode function
+ * get_opc - gets the opcodes function
  * @stack: pointer to the stack or queue
  * @arg: the command
  * @val: the value
