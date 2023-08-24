@@ -36,7 +36,7 @@ void divide(stack_t **stack, unsigned int line_number)
 }
 
 /**
- * mul - multiplies the second top element of the stack with
+ * mul - multiplie the second top element of the stack with
  * the top element of the stack.
  * @stack: double pointer to the head of the stack
  * @line_number: the line number
