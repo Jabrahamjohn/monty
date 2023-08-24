@@ -85,7 +85,7 @@ void pint(stack_t **stack, unsigned int line_number)
 
 /**
  * pop - remove the top elements of the stack.
- * @stack: double pointer to the head of the stack
+ * @stack: double pointers to the head of the stack
  * @line_number: the current line number
  */
 void pop(stack_t **stack, unsigned int line_number)
