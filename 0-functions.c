@@ -67,7 +67,7 @@ void pall(stack_t **stack, unsigned int line_number)
 /**
  * pint - printing the value at the top of the stacks
  * @stack: double pointers to the head of the stack
- * @line_number: the current line number
+ * @line_number: the current line numbers
  */
 
 void pint(stack_t **stack, unsigned int line_number)
