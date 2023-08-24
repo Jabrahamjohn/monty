@@ -2,7 +2,7 @@
 
 /**
  * nop - functions
- * @stack: double pointer to the head of the list
+ * @stack: doubles pointer to the head of the list
  * @line_number: the current line number
  */
 
