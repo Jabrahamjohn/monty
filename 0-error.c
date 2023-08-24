@@ -1,6 +1,6 @@
 #include "monty.h"
 /**
- * usage_error - printing an usage error messages
+ * usage_error - print a usage error messages
  * Return: FAILURE
  */
 
