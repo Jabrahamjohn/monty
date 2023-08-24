@@ -2,7 +2,7 @@
 
 /**
  * get_opc - gets the opcodes function
- * @stack: pointer to the stack or queue
+ * @stack: pointers to the stack or queue
  * @arg: the command
  * @val: the value
  * @line_number: the line number
