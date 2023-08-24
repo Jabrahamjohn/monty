@@ -33,7 +33,7 @@ extern int value;
  * @prev: points to the previous elements of the stack (or queue)
  * @next: points to the next elements of the stack (or queue)
  *
- * Description: doubly linked list node structure
+ * Description: doubly linked list node structures
  * for stack, queues, LIFO, FIFO
  */
 typedef struct stack_s
