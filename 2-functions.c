@@ -4,7 +4,7 @@
  * divide -  divide the second top element of the stack
  * by the top element of the stacks
  * @stack: doubles pointers to the head of the stack
- * @line_number: the line number
+ * @line_number: the line numbers
  */
 
 void divide(stack_t **stack, unsigned int line_number)
