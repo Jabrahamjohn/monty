@@ -3,7 +3,7 @@
 int value;
 
 /**
- * createNode - creates a new node
+ * createNode - creating a new node
  * @n: the value of the node
  * Return: new node
  */
