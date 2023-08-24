@@ -20,7 +20,7 @@ stack_t *list = NULL;
 }
 
 /**
- * clean_stack - Free all and close files
+ * clean_stack - Free all and closes files
  * @stack: Stack
  */
 
