@@ -4,7 +4,7 @@ int value;
 
 /**
  * createNode - creating a new node
- * @n: the value of the node
+ * @n: the values of the node
  * Return: new node
  */
 
