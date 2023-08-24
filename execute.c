@@ -3,8 +3,8 @@
 cmd_t cmd = {NULL, NULL};
 
 /**
- *execute - reads the file and executes the monty byte
- *@argv: argument vector
+ *execute - reads the files and executes the monty byte
+ *@argv: argument vectors
  */
 
 void execute(char *argv)
