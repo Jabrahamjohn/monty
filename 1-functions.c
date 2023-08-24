@@ -39,7 +39,7 @@ void swap(stack_t **stack, unsigned int line_number)
 }
 
 /**
- * add - adds the top two elements of the stack.
+ * add - add the top two elements of the stack.
  * @stack: double pointer to the head of the stack
  * @line_number: the line number
  */
