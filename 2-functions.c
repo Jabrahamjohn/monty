@@ -63,7 +63,7 @@ void mul(stack_t **stack, unsigned int line_number)
 
 /**
  * mod - compute the rest of the division of the second
- * top element of the stack by the top element of the stack.
+ * top elements of the stack by the top element of the stack.
  * @stack: double pointer to the head of the stack
  * @line_number: the line number
  */
