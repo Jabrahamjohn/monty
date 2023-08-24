@@ -87,7 +87,7 @@ void pchar(stack_t **stack, unsigned int line_number)
 }
 
 /**
- * sub - substracts the top two elements of the stack.
+ * sub - substract the top two elements of the stack.
  * @stack: double pointer to the head of the stack
  * @line_number: the line number
  */
