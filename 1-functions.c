@@ -3,7 +3,7 @@
 /**
  * nop - functions
  * @stack: doubles pointer to the head of the list
- * @line_number: the current line number
+ * @line_number: the currents line number
  */
 
 void nop(stack_t **stack, unsigned int line_number)
