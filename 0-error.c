@@ -43,7 +43,7 @@ void push_error(FILE *fd, char *line, stack_t *stack, int line_number)
 }
 
 /**
- * instr_error - Error handler for unknown instructions
+ * instr_error - Errors handler for unknowns instructions
  * @fd: file descriptor
  * @line: buffer
  * @stack:  stack or queue
